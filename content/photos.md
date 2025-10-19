@@ -1,3 +1,5 @@
 ---
-title: PHOTOS
+title: SAY CHEESE!
 ---
+
+woo!

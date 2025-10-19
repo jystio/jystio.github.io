@@ -1,3 +1,5 @@
 ---
-title: GIFTING
+title: YOUR PRESENCE IS ENOUGH...
 ---
+
+GIFT

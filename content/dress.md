@@ -1,3 +1,5 @@
 ---
-title: DRESS CODE
+title: WHAT TO WEAR...
 ---
+
+WOO
