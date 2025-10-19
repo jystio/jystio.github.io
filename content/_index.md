@@ -1,6 +1,6 @@
 ---
 title: "JYST"
-description: "Since 1998, London, UK.\n\n
+description: "Welcome to our wedding website!\n\n
 
-Engineer, Designer, Artist."
+In the above tabs, you will find everything you need to know to come celebrate with us on 24th October 2026!"
 ---
