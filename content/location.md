@@ -53,6 +53,10 @@ The bus route that stops closest to the main Centre is the 153, alight at the Si
 Bike:<br>\
 Cycle racks are available at the entrance to Car Park 5 and exit to Car Park 3, which are accessible from inside the Beech Street tunnel. There are also additional bike racks on Silk Street and Golden Lane.
 
+By Car:<br>\
+If you're coming by car, parking is available at X.<br>\
+If you're being dropped off by car or taxi, use the Silk Street entrance for any venue on Level G or above.
+
 ---
 <br>\
 ABOUT:<br>\
