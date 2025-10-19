@@ -56,6 +56,8 @@ If you're being dropped off by car or taxi, use the Silk Street entrance for any
 ---
 
 ## ABOUT:
-The Conservatory was designed by the Barbican’s architects Chamberlin, Powell and Bon between 1980 and 1981, and was opened in 1984.<br>\
-The Conservatory now houses around 1,500 species of plants and trees, some of which are rare and endangered in their native habitat. These include places like the rocky deserts and bushland of South Africa to the coastline of Brazil.<br>\
+The Conservatory was designed by the Barbican’s architects Chamberlin, Powell and Bon between 1980 and 1981, and was opened in 1984.
+
+The Conservatory now houses around 1,500 species of plants and trees, some of which are rare and endangered in their native habitat. These include places like the rocky deserts and bushland of South Africa to the coastline of Brazil.
+
 There are some ponds on the third floor, which are home to koi, ghost, and grass carp from Japan and America, as well as other cold water fish such as roach, rudd, and tench. There are even terrapins located outside the Arid House pond! Please take a look, we kindly ask you to keep your clothes on though and avoid giving them any human treats from our buffet.
