@@ -36,24 +36,6 @@ title = "JYST"
     url = "/contact"
     weight = 50
 
-  [[menu.social]]
-    name = "YouTube"
-    pre = "youtube"
-    url = "https://youtube.com/@tamirrxyz"
-    weight = 20
-    
-  [[menu.social]]
-    name = "Notalegt"
-    pre = "notalegt"
-    url = "https://notalegt.xyz/"
-    weight = 30
-
-  [[menu.social]]
-    name = "RSS Feed"
-    pre = "rss"
-    url = "/index.xml"
-    weight = 40
-
 
 [markup]
   [markup.goldmark.parser]
