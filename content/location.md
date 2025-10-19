@@ -34,7 +34,7 @@ As we're in London, we do have a curfew. All music will stop at 2330, but the pa
 ---
 
 ## TRAVEL ADVICE:
-The Barbican is widely accessible by bus, tube, train, by foot or bicycle.
+The Barbican is widely accessible by bus, tube, train, or bicycle.
 
 Plan your journey on the [TFL Website.](https://tfl.gov.uk/)
 ### Tube:
