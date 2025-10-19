@@ -8,7 +8,7 @@ Please join us at the Barbican Conservatory to celebrate the unions of James & S
 
 ---
 
-WHERE:<br>
+WHERE:<br>\
 Barbican Conservatory<br>
 Level 3 and 4<br>
 Barbican<br>
@@ -20,6 +20,10 @@ England, UK<br>
 ---
 
 TRAVEL ADVICE:<br>
+
+By car:
+
+By train/metro:
 
 ---
 
