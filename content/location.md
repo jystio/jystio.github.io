@@ -16,7 +16,8 @@ LONDON<br>\
 EC2Y 8DS<br>\
 England, UK
 
-The Barbican Conservatory is located on Level 3, if you’re coming from inside the main Barbican building, and will be sign-posted throughout.<br>\
+The Barbican Conservatory is located on Level 3, if you’re coming from inside the main Barbican building, and will be sign-posted throughout.
+
 Walking from Barbican tube station, you’ll see steps with ‘Art Gallery’ above them, these will lead you up to the Sculpture Court where you'll see a sign for the Conservatory. 
 
 ---
@@ -24,8 +25,10 @@ Walking from Barbican tube station, you’ll see steps with ‘Art Gallery’ ab
 ## WHEN:
 We'll be having welcome drinks between 1630 and 1800, so please arrive between then.
 
-We're not so formal, so neither is our event.<br>\
-Both food and the dance floor will start promptly at 1830 (so definitely don't be later than that!).<br>\
+We're not so formal, so neither is our event.
+
+Both food and the dance floor will start promptly at 1830 (so definitely don't be later than that!).
+
 As we're in London, we do have a curfew. All music will stop at 2330, but the party will continue on at X - please join us if you feel up to it! 
 
 ---
