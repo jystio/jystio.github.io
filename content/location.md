@@ -1,7 +1,8 @@
 ---
 title: WHERE AND WHEN...
 ---
-Please join us at the Barbican Conservatory to celebrate the unions of James & Saffron and Tamir & Yasmin. <br>\
+Please join us at the Barbican Conservatory to celebrate the unions of James & Saffron and Tamir & Yasmin.
+
 24/10/2026<br>\
 1630 UNTIL LATE
 
