@@ -8,7 +8,7 @@ Please join us at the Barbican Conservatory to celebrate the unions of James & S
 
 ---
 <br>\
-WHERE:<br>\
+#### WHERE:<br>\
 Barbican Conservatory<br>\
 Level 3 and 4<br>\
 Barbican<br>\
@@ -22,7 +22,7 @@ From the Barbican highwalks, follow signs to the ‘Barbican Centre’. Walking 
 
 ---
 <br>\
-WHEN:<br>\
+#### WHEN:<br>\
 We'll be having welcome drinks between 1630 and 1800, so please arrive between then.
 
 We're not so formal, so neither is our event.<br>\
@@ -31,34 +31,32 @@ As we're in London, we do have a curfew. All music will stop at 2330, but the pa
 
 ---
 <br>\
-TRAVEL ADVICE:
-
+#### TRAVEL ADVICE:<br>\
 The Barbican is widely accessible by bus, tube, train, by foot or bicycle.
 
-Plan your journey on the [TFL Website.](https://tfl.gov.uk/)
+Plan your journey on the [TFL Website.](https://tfl.gov.uk/)<br>\
+##### Tube:<br>\
+**Barbican:** 4 min walk; *Hammersmith & City, Metropolitan, Circle lines* <br>\
+**Moorgate:** 7 min walk; *Hammersmith & City, Metropolitan, Circle, Northern lines, Elizabeth Line (use the Moorgate exit for Liverpool St stop)* <br>\
+**Farringdon:** 8 min walk; *Elizabeth line* <br>\
+**St Paul's:** 11 min walk; *Central line*
 
-Tube:<br>\
-*Barbican:* 4 min walk; Hammersmith & City, Metropolitan, Circle lines <br>\
-*Moorgate:* 7 min walk; Hammersmith & City, Metropolitan, Circle, Northern lines, Elizabeth Line (use the Moorgate exit for Liverpool St stop) <br>\
-*Farringdon:* 8 min walk; Elizabeth line <br>\
-*St Paul's:* 11 min walk; Central line
+##### Train:<br>\
+**Liverpool Street:** 11 min walk <br>\
+**Farringdon:** 8 min walk
 
-Train:<br>\
-*Liverpool Street:* 11 min walk <br>\
-*Farringdon:* 8 min walk
-
-Bus:<br>\
+##### Bus:<br>\
 The bus route that stops closest to the main Centre is the 153, alight at the Silk Street stop. The 4 and 56 also stop at Barbican tube station.
 
-Bike:<br>\
+##### Bike:<br>\
 Cycle racks are available at the entrance to Car Park 5 and exit to Car Park 3, which are accessible from inside the Beech Street tunnel. There are also additional bike racks on Silk Street and Golden Lane.
 
-By Car:<br>\
+##### By Car:<br>\
 If you're coming by car, parking is available at X.<br>\
 If you're being dropped off by car or taxi, use the Silk Street entrance for any venue on Level G or above.
 
 ---
 <br>\
-ABOUT:<br>\
+#### ABOUT:<br>\
 The Conservatory was designed by the Barbican’s architects Chamberlin, Powell and Bon between 1980 and 1981, and was opened in 1984. The Conservatory now houses around 1,500 species of plants and trees, some of which are rare and endangered in their native habitat. These include places like the rocky deserts and bushland of South Africa to the coastline of Brazil.<br>\
 There are some ponds on the third floor, which are home to koi, ghost, and grass carp from Japan and America, as well as other cold water fish such as roach, rudd, and tench. There are even terrapins located outside the Arid House pond! Please take a look, we kindly ask you to keep your clothes on though and avoid giving them any human treats from our buffet.
