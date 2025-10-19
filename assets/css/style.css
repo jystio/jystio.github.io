@@ -13,29 +13,29 @@
     --border-radius: 0.5rem;
     --border-radius-small: 0.1rem;
 
-    --color-background: #eceff4;
-    --color-background-alt: #e5e9f0;
-    --color-background-code: #eceff4;
-    --color-text: #2e3440;
-    --color-text-bright: #2e3440;
-    --color-text-strong: #2e3440;
-    --color-subtext: #434c5e;
-    --color-primary: #81a1c1;
-    --color-accent: #2e3440;
+    --color-background: #fff6cf;
+    --color-background-alt: #fff6cf;
+    --color-background-code: #fff6cf;
+    --color-text: #1d2814;
+    --color-text-bright: #1d2814;
+    --color-text-strong: #1d2814;
+    --color-subtext: #1d2814;
+    --color-primary: #1d2814;
+    --color-accent: #1d2814;
 }
 
 /* Dark theme */
 @media (prefers-color-scheme: light) {
     :root {
         color-scheme: light;
-        --color-background: #eceff4;
-        --color-background-alt: #e5e9f0;
-        --color-text: #2e3440;
-        --color-text-bright: #2e3440;
-        --color-text-strong: #2e3440;
-        --color-subtext: #434c5e;
-        --color-primary: #81a1c1;
-        --color-accent: #2e3440;
+        --color-background: #fff6cf;
+        --color-background-alt: #fff6cf;
+        --color-text: #1d2814;
+        --color-text-bright: #1d2814;
+        --color-text-strong: #1d2814;
+        --color-subtext: #1d2814;
+        --color-primary: #1d2814;
+        --color-accent: #1d2814;
     }
 }
 
@@ -505,5 +505,5 @@ header+figure {
 
 /* change colour of link on hover */
 a:hover {
-    color: #5e81ac;
+    color: #6b934aff;
   }
