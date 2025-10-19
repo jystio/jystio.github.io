@@ -12,29 +12,34 @@ title = "JYST"
     weight = 10
 
   [[menu.main]]
+    name = "RSVP"
+    url = "/rsvp"
+    weight = 10
+
+  [[menu.main]]
     name = "LOCATION"
     url = "/location"
-    weight = 10
+    weight = 20
 
   [[menu.main]]
     name = "DRESS CODE"
     url = "/dress"
-    weight = 20
+    weight = 30
 
   [[menu.main]]
     name = "GIFTING"
     url = "/gifting"
-    weight = 30
+    weight = 40
 
   [[menu.main]]
     name = "PHOTOS"
     url = "/photos"
-    weight = 40
+    weight = 50
 
   [[menu.main]]
     name = "CONTACT"
     url = "/contact"
-    weight = 50
+    weight = 60
 
 
 [markup]
