@@ -1,24 +1,22 @@
 ---
 title: WHERE AND WHEN...
 ---
+Please join us at the Barbican Conservatory to celebrate the unions of James & Saffron and Tamir & Yasmin. <br>\
 24/10/2026<br>\
 1630 UNTIL LATE
-
-Please join us at the Barbican Conservatory to celebrate the unions of James & Saffron and Tamir & Yasmin 
 
 ---
 
 ## WHERE:
 Barbican Conservatory<br>\
-Level 3 and 4<br>\
-Barbican<br>\
+Barbican - Level 3 and 4<br>\
 Silk Street<br>\
 LONDON<br>\
 EC2Y 8DS<br>\
 England, UK
 
-The Barbican Conservatory is located on Level 3, if you’re coming from inside the main Barbican building.<br>\
-From the Barbican highwalks, follow signs to the ‘Barbican Centre’. Walking from Barbican tube station, you’ll see a steps with ‘Art Gallery’ above them, these will lead you up to the Sculpture Court where you'll see a sign for the Conservatory. 
+The Barbican Conservatory is located on Level 3, if you’re coming from inside the main Barbican building, and will be sign-posted throughout.<br>\
+Walking from Barbican tube station, you’ll see steps with ‘Art Gallery’ above them, these will lead you up to the Sculpture Court where you'll see a sign for the Conservatory. 
 
 ---
 
