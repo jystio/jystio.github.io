@@ -39,7 +39,7 @@ The Barbican is widely accessible by bus, tube, train, by foot or bicycle.
 Plan your journey on the [TFL Website.](https://tfl.gov.uk/)
 ### Tube:
 **Barbican:** 4 min walk; *Hammersmith & City, Metropolitan, Circle lines* <br>\
-**Moorgate:** 7 min walk; *Hammersmith & City, Metropolitan, Circle, Northern lines, Elizabeth Line (use the Moorgate exit for Liverpool St stop)* <br>\
+**Moorgate:** 7 min walk; *Hammersmith & City, Metropolitan, Circle, Northern lines, Elizabeth Line (via Liverpool St)* <br>\
 **Farringdon:** 8 min walk; *Elizabeth line* <br>\
 **St Paul's:** 11 min walk; *Central line*
 ### Train:
