@@ -2,4 +2,4 @@
 title: SAY CHEESE!
 ---
 
-woo!
+Official photography will be uploaded here soon...
