@@ -12,23 +12,23 @@ title = "JYST"
     weight = 10
 
   [[menu.main]]
-    name = "WORKS"
-    url = "/works"
+    name = "LOCATION"
+    url = "/location"
     weight = 10
 
   [[menu.main]]
-    name = "MEDIA"
-    url = "/media"
+    name = "DRESS CODE"
+    url = "/dress"
     weight = 20
 
   [[menu.main]]
-    name = "BLOG"
-    url = "/blog"
+    name = "GIFTING"
+    url = "/gifting"
     weight = 30
 
   [[menu.main]]
-    name = "BIOGRAPHY"
-    url = "/biography"
+    name = "PHOTOS"
+    url = "/photos"
     weight = 40
 
   [[menu.main]]
