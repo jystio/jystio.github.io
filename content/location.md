@@ -34,23 +34,19 @@ As we're in London, we do have a curfew. All music will stop at 2330, but the pa
 ## TRAVEL ADVICE:
 The Barbican is widely accessible by bus, tube, train, by foot or bicycle.
 
-Plan your journey on the [TFL Website.](https://tfl.gov.uk/)<br>\
+Plan your journey on the [TFL Website.](https://tfl.gov.uk/)
 ### Tube:
 **Barbican:** 4 min walk; *Hammersmith & City, Metropolitan, Circle lines* <br>\
 **Moorgate:** 7 min walk; *Hammersmith & City, Metropolitan, Circle, Northern lines, Elizabeth Line (use the Moorgate exit for Liverpool St stop)* <br>\
 **Farringdon:** 8 min walk; *Elizabeth line* <br>\
 **St Paul's:** 11 min walk; *Central line*
-
 ### Train:
 **Liverpool Street:** 11 min walk <br>\
 **Farringdon:** 8 min walk
-
 ### Bus:
 The bus route that stops closest to the main Centre is the 153, alight at the Silk Street stop. The 4 and 56 also stop at Barbican tube station.
-
 ### Bike:
 Cycle racks are available at the entrance to Car Park 5 and exit to Car Park 3, which are accessible from inside the Beech Street tunnel. There are also additional bike racks on Silk Street and Golden Lane.
-
 ### By Car:
 If you're coming by car, parking is available at X.<br>\
 If you're being dropped off by car or taxi, use the Silk Street entrance for any venue on Level G or above.
