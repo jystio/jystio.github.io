@@ -1,3 +1,3 @@
-## [Personal Website](https://tamirr.xyz/)
+## [JYST](https://jyst.co.uk/)
 
-This is my digital garden. Here you'll find all my ideas, projects I'm currently working on and anything else I find interesting.
+To get the JYST of things!
