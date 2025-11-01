@@ -11,8 +11,5 @@ If you are responding on behalf of your family and only some of you can make it,
   <textarea name="email" placeholder="Enter one e-mail address, just in case :)" cols="50" rows="2"></textarea>
   <textarea name="message" placeholder="Please enter any dietry requirements here, including allergies." cols="50" rows="2"></textarea>
   <button type="submit">Send</button>
-  <div class="text-center">
-    <p><small>(Powered by <a rel="nofollow" href="https://un-static.com">Un-static Forms</a>)</small></p>
-  </div>
 </form>
 {{< /rawhtml >}}
