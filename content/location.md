@@ -29,7 +29,7 @@ We're not so formal, so neither is our event.
 
 Both food and the dance floor will start promptly at 1830 (so definitely don't be later than that!).
 
-As we're in London, we do have a curfew. All music will stop at 2330, but the party will continue on at X - please join us if you feel up to it! 
+As we're in London, we do have a curfew. All music will stop at 2330. 
 
 ---
 
@@ -50,7 +50,7 @@ The bus route that stops closest to the main Centre is the 153, alight at the Si
 ### Bike:
 Cycle racks are available at the entrance to Car Park 5 and exit to Car Park 3, which are accessible from inside the Beech Street tunnel. There are also additional bike racks on Silk Street and Golden Lane.
 ### By Car:
-If you're coming by car, parking is available at X.<br>\
+If you're coming by car, parking is available at the Barbican in their private parking block.<br>\
 If you're being dropped off by car or taxi, use the Silk Street entrance. The journey to the third floor will then be sign-posted throughout.
 
 ---
